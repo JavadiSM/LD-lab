@@ -1,1 +1,2 @@
 # LD-lab
+As students, we are actively engaged in the process of designing and building logical systems in the laboratory. In addition to practical applications, we are required to document our findings and the results of our experiments in reports to showcase our understanding and analytical skills. This hands-on experience allows us to apply theoretical concepts to real-world scenarios and enhance our knowledge in the field of logical design.
