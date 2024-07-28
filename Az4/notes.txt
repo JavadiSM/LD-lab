@@ -26,3 +26,8 @@ state expressions
 image 1
 مرحله دوم: دو جهته کردن شمارنده
 image 2
+
+
+
+FRITZING: 
+بافرا تزئینین
